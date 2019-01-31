@@ -1,1 +1,1 @@
-web: gunucon DJANGO_1:manage
+web: gunicorn DJANGO_1:manage
